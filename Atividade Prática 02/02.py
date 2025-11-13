@@ -17,7 +17,8 @@ Preço_Final = Preço_Original - Desconto
 print("--- Detalhes da Compra ---")
 print(f"Nome do Produto: {Produto}")
 print(f"Preço original: R$ {Preço_Original:.2f}")
-print(f"Porcentagem do Desconto: {Porcentagem_Desconto:2f} %")
+print(f"Porcentagem do Desconto: {Porcentagem_Desconto:} %")
 print(f"Valor do desconto: R$ {Desconto:.2f}")
 
 print(f"Preço final com desconto: R$ {Preço_Final:.2f}")
+
